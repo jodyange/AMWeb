@@ -95,7 +95,7 @@
                     </div> -->
                    
                 </div>
-                <!-- <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Get A Quote</a> -->
+                <!-- <a href="" class="btn btn-warning py-2 px-4 d-none d-lg-block">Get A Quote</a> -->
             </div>
         </nav>
     </div>
@@ -114,7 +114,7 @@
                                 <!-- <small class="align-top text-muted font-weight-medium" style="font-size: 22px; line-height: 45px;">$</small>49<small class="align-bottom text-muted font-weight-medium" style="font-size: 16px; line-height: 40px;">/Mo</small> -->
                             </h1>
                         </div>
-                        <div class="bg-primary text-center p-4">
+                        <div class="bg-warning text-center p-4" style="background-color:yellow;">
                             <h1 class="m-0"> CHECK YOUR SHIPMENT</h3>
                         </div>
                         <div class="d-flex flex-column align-items-center py-4">
@@ -122,7 +122,7 @@
     <form method="post" action="1-form.php">
      
       <input type="text" name="search" required/>
-      <br><input class="btn btn-primary py-2 px-4 my-2" type="submit" value="Track shipment" />
+      <br><input class="btn btn-warning py-2 px-4 my-2" type="submit" value="Track shipment" />
     </form>
 
     

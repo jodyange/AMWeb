@@ -91,7 +91,7 @@
                     </div> -->
                    
                 </div>
-                <!-- <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Get A Quote</a> -->
+                <!-- <a href="" class="btn btn-warning py-2 px-4 d-none d-lg-block">Get A Quote</a> -->
             </div>
         </nav>
     </div>
@@ -122,7 +122,7 @@
             <div class="row align-items-center">
                 <div class="col-lg-5 pb-4 pb-lg-0">
                     <img class="img-fluid w-100" src="img/about.jpg" alt="">
-                    <div class="bg-primary text-dark text-center p-4">
+                    <div class="bg-warning text-dark text-center p-4">
                         <h3 class="m-0">43+ Years Experience</h3>
                     </div>
                 </div>
@@ -183,7 +183,7 @@
                     </div>
                 </div>
                 <div class="col-lg-5">
-                    <div class="bg-primary py-5 px-4 px-sm-5">
+                    <div class="bg-warning py-5 px-4 px-sm-5">
                         <form class="py-5">
                         <h3 >Send all your questions to <br><h5 class="mb-4">"Amazementlogistics1978@gmail.com"</h5></h3>
 
@@ -206,7 +206,7 @@
             </div>
             <div class="row pb-3">
                 <div class="col-lg-3 col-md-6 text-center mb-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
+                    <div class="d-flex align-items-center justify-content-center bg-warning mb-4 p-4">
                         <i class="fa fa-2x fa-plane text-dark pr-3"></i>
                         <h6 class="text-white font-weight-medium m-0">Air Freight</h6>
                     </div>
@@ -214,7 +214,7 @@
                     <a class="border-bottom text-decoration-none" href="about.html">Read More</a>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center mb-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
+                    <div class="d-flex align-items-center justify-content-center bg-warning mb-4 p-4">
                         <i class="fa fa-2x fa-ship text-dark pr-3"></i>
                         <h6 class="text-white font-weight-medium m-0">Ocean Freight</h6>
                     </div>
@@ -222,7 +222,7 @@
                     <a class="border-bottom text-decoration-none" href="about.html">Read More</a>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center mb-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
+                    <div class="d-flex align-items-center justify-content-center bg-warning mb-4 p-4">
                         <i class="fa fa-2x fa-truck text-dark pr-3"></i>
                         <h6 class="text-white font-weight-medium m-0">Land Transport</h6>
                     </div>
@@ -230,7 +230,7 @@
                     <a class="border-bottom text-decoration-none" href="about.html">Read More</a>
                 </div>
                 <div class="col-lg-3 col-md-6 text-center mb-5">
-                    <div class="d-flex align-items-center justify-content-center bg-primary mb-4 p-4">
+                    <div class="d-flex align-items-center justify-content-center bg-warning mb-4 p-4">
                         <i class="fa fa-2x fa-store text-dark pr-3"></i>
                         <h6 class="text-white font-weight-medium m-0">Cargo Storage</h6>
                     </div>
@@ -266,7 +266,7 @@
 
 
                     </ul>
-                    <a href="" class="btn btn-primary mt-3 py-2 px-4">Learn More</a>
+                    <a href="" class="btn btn-warning mt-3 py-2 px-4">Learn More</a>
                 </div>
             </div>
         </div>
@@ -287,7 +287,7 @@
                                 <!-- <small class="align-top text-muted font-weight-medium" style="font-size: 22px; line-height: 45px;">$</small>49<small class="align-bottom text-muted font-weight-medium" style="font-size: 16px; line-height: 40px;">/Mo</small> -->
                             </h1>
                         </div>
-                        <div class="bg-primary text-center p-4">
+                        <div class="bg-warning text-center p-4">
                             <h1 class="m-0"> CHECK YOUR SHIPMENT</h3>
                         </div>
                         <div class="d-flex flex-column align-items-center py-4">
@@ -295,7 +295,7 @@
     <form method="post" action="1-form.php">
        
         <input type="text" name="search"  placeholder="Enter tracking number"/>
-        <br><input class="btn btn-primary py-2 px-4 my-2" type="submit" value="Track shipment" />
+        <br><input class="btn btn-warning py-2 px-4 my-2" type="submit" value="Track shipment" />
       </form>
   
       <?php
@@ -327,7 +327,7 @@
                                 <small class="align-top text-muted font-weight-medium" style="font-size: 22px; line-height: 45px;">$</small>99<small class="align-bottom text-muted font-weight-medium" style="font-size: 16px; line-height: 40px;">/Mo</small>
                             </h1>
                         </div> -->
-                        <!-- <div class="bg-primary text-center p-4">
+                        <!-- <div class="bg-warning text-center p-4">
                             <h3 class="m-0">Premium</h3>
                         </div>
                         <div class="d-flex flex-column align-items-center py-4">
@@ -335,7 +335,7 @@
                             <p>Bootstrap 4</p>
                             <p>Responsive Layout</p>
                             <p>Compatible With All Browsers</p>
-                            <a href="" class="btn btn-primary py-2 px-4 my-2">Order Now</a>
+                            <a href="" class="btn btn-warning py-2 px-4 my-2">Order Now</a>
                         </div>
                     </div>
                 </div>
@@ -346,7 +346,7 @@
                                 <small class="align-top text-muted font-weight-medium" style="font-size: 22px; line-height: 45px;">$</small>149<small class="align-bottom text-muted font-weight-medium" style="font-size: 16px; line-height: 40px;">/Mo</small>
                             </h1>
                         </div>
-                        <div class="bg-primary text-center p-4">
+                        <div class="bg-warning text-center p-4">
                             <h3 class="m-0">Business</h3>
                         </div>
                         <div class="d-flex flex-column align-items-center py-4">
@@ -354,7 +354,7 @@
                             <p>Bootstrap 4</p>
                             <p>Responsive Layout</p>
                             <p>Compatible With All Browsers</p>
-                            <a href="" class="btn btn-primary py-2 px-4 my-2">Order Now</a>
+                            <a href="" class="btn btn-warning py-2 px-4 my-2">Order Now</a>
                         </div>
                     </div>
                 </div> -->
@@ -380,7 +380,7 @@
                                 <h5 class="font-weight-bold">Full Name</h5>
                                 <span>Designation</span>
                             </div>
-                            <div class="team-social d-flex align-items-center justify-content-center bg-primary">
+                            <div class="team-social d-flex align-items-center justify-content-center bg-warning">
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
@@ -397,7 +397,7 @@
                                 <h5 class="font-weight-bold">Full Name</h5>
                                 <span>Designation</span>
                             </div>
-                            <div class="team-social d-flex align-items-center justify-content-center bg-primary">
+                            <div class="team-social d-flex align-items-center justify-content-center bg-warning">
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
@@ -414,7 +414,7 @@
                                 <h5 class="font-weight-bold">Full Name</h5>
                                 <span>Designation</span>
                             </div>
-                            <div class="team-social d-flex align-items-center justify-content-center bg-primary">
+                            <div class="team-social d-flex align-items-center justify-content-center bg-warning">
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
@@ -431,7 +431,7 @@
                                 <h5 class="font-weight-bold">Full Name</h5>
                                 <span>Designation</span>
                             </div>
-                            <div class="team-social d-flex align-items-center justify-content-center bg-primary">
+                            <div class="team-social d-flex align-items-center justify-content-center bg-warning">
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-twitter"></i></a>
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-facebook-f"></i></a>
                                 <a class="btn btn-outline-dark btn-social mr-2" href="#"><i class="fab fa-linkedin-in"></i></a>
@@ -515,7 +515,7 @@
                 <div class="col-md-6 mb-5">
                     <div class="position-relative">
                         <img class="img-fluid w-100" src="img/blog-1.jpg" alt="">
-                        <div class="position-absolute bg-primary d-flex flex-column align-items-center justify-content-center rounded-circle"
+                        <div class="position-absolute bg-warning d-flex flex-column align-items-center justify-content-center rounded-circle"
                             style="width: 60px; height: 60px; bottom: -30px; right: 30px;">
                             <h4 class="font-weight-bold mb-n1">01</h4>
                             <small class="text-white text-uppercase">Jan</small>
@@ -540,7 +540,7 @@
                 <div class="col-md-6 mb-5">
                     <div class="position-relative">
                         <img class="img-fluid w-100" src="img/blog-2.jpg" alt="">
-                        <div class="position-absolute bg-primary d-flex flex-column align-items-center justify-content-center rounded-circle"
+                        <div class="position-absolute bg-warning d-flex flex-column align-items-center justify-content-center rounded-circle"
                             style="width: 60px; height: 60px; bottom: -30px; right: 30px;">
                             <h4 class="font-weight-bold mb-n1">01</h4>
                             <small class="text-white text-uppercase">Jan</small>
@@ -604,7 +604,7 @@
                     <div class="input-group">
                         <input type="text" class="form-control border-light" style="padding: 30px;" placeholder="Your Email Address">
                         <div class="input-group-append">
-                            <button class="btn btn-primary px-4">Sign Up</button>
+                            <button class="btn btn-warning px-4">Sign Up</button>
                         </div>
                     </div>
                 </div>
@@ -639,7 +639,7 @@
 
 
     <!-- Back to Top -->
-    <a href="#" class="btn btn-lg btn-primary back-to-top"><i class="fa fa-angle-double-up"></i></a>
+    <a href="#" class="btn btn-lg btn-warning back-to-top"><i class="fa fa-angle-double-up"></i></a>
 
 
     <!-- JavaScript Libraries -->
