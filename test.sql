@@ -12,10 +12,19 @@
 /*!40101 SET @OLD_SQL_MODE=@@SQL_MODE, SQL_MODE='NO_AUTO_VALUE_ON_ZERO' */;
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
+
+-- Listage de la structure de la base pour test
+CREATE DATABASE IF NOT EXISTS `test` /*!40100 DEFAULT CHARACTER SET latin1 */;
+USE `test`;
+
+-- Listage des données de la table test.shipment : ~0 rows (environ)
+/*!40000 ALTER TABLE `shipment` DISABLE KEYS */;
+/*!40000 ALTER TABLE `shipment` ENABLE KEYS */;
+
 -- Listage des données de la table test.users : ~1 rows (environ)
 /*!40000 ALTER TABLE `users` DISABLE KEYS */;
-INSERT IGNORE INTO `users` (`id`, `name`, `email`, `password`, `ShipmentNo`, `Weight`, `Service`, `CreatedOn`, `ETA`, `SendingAddress`, `ReceivingAddress`, `ShipmentStatus`, `Time`, `Activities`) VALUES
-	(1, 'John Doe', 'john@doe.com', 'johndoe', 123456789, 50, 'International Delivery', '2021-07-19 03:04:53', '2021-09-19', 'Cotonou', 'Bruxelles', 'On the way', NULL, '');
+INSERT IGNORE INTO `users` (`id`, `sender_name`, `receiver_name`, `email`, `password`) VALUES
+	(1, 'John Doe', NULL, 'john@doe.com', 'johndoe');
 /*!40000 ALTER TABLE `users` ENABLE KEYS */;
 
 /*!40101 SET SQL_MODE=IFNULL(@OLD_SQL_MODE, '') */;
